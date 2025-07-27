@@ -54,7 +54,7 @@ Para replicar el proceso de entrenamiento y generar los artefactos del modelo, e
 
 ```bash
 jupyter notebook "Modelo Predictivo De Actividad Licita Usando Machine Learning.ipynb"
-Use code with caution.
+```
 Markdown
 Al ejecutar todas las celdas, el notebook realizará el análisis completo y guardará los siguientes archivos en el directorio raíz (o en /artifacts/ si se configura así):
 pipeline_regresion_logistica.pkl
